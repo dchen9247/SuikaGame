@@ -6,7 +6,7 @@ A clone of the classic Suika (Watermelon) Game built with Android native tools! 
 
 ## 🎮 Gameplay
 
-Drag and drop fruits into a box. When two of the same fruit collide, they combine into a larger one! Be strategic—don’t let the box overflow!
+Drag and drop fruits into a box. When two of the same fruit collide, they combine. Don't let the container overflow.
 
 ---
 
