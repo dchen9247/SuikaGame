@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217544148315",
+    "project_id": "suikagame-47718",
+    "storage_bucket": "suikagame-47718.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217544148315:android:15d331926bbf29f769067e",
+        "android_client_info": {
+          "package_name": "com.example.suikagame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi-NdU1chFxEy-Py26tXx9C9SoB-8EiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

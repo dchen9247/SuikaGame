@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:padding="24dp"
+    android:id="@+id/rootLayout">
+
+    <TextView
+        android:text="Game Over!"
+        android:textSize="32sp"
+        android:textColor="#000000"
+        android:layout_marginBottom="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textScore"
+        android:text="Your Score:"
+        android:textSize="24sp"
+        android:textColor="#333333"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/editUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        android:hint="Enter your name"
+        android:padding="12dp"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:background="@android:drawable/edit_text" />
+
+    <Button
+        android:id="@+id/buttonSubmitScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit Score"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/buttonLeaderboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:text="View Leaderboard" />
+
+    <Button
+        android:id="@+id/playAgainButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Play Again" />
+
+</LinearLayout>
