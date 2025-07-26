@@ -30,7 +30,7 @@ Drag and drop fruits into a box. When two of the same fruit collide, they combin
 
 | Gameplay | Game Over | Settings |
 |---------|------------|-----------|
-| ![Gameplay](./Screenshot%202025-07-26%20170215.png) | ![Game Over](./SuikaGameEndScreen.png) | ![Settings](./Screenshot%202025-07-26%20173229.png) |
+|![Gameplay](./gamePreviews/MainGameScreen.png) | ![Game Over](./gamePreviews/EndScreen.png) | ![Settings](./gamePreviews/Settings.png) |
 
 ---
 
